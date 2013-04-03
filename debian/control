@@ -2,8 +2,8 @@ Source: libpam-debathena-home-type
 Section: debathena/net
 Priority: extra
 Maintainer: Debathena Project <debathena@mit.edu>
-Build-Depends: @cdbs@, libpam0g-dev
-Standards-Version: 3.7.2
+Build-Depends: cdbs, debhelper, dh-buildinfo, libpam0g-dev
+Standards-Version: 3.9.3
 
 Package: libpam-debathena-home-type
 Architecture: any
